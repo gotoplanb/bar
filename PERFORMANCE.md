@@ -5,3 +5,4 @@
 - Fixed database connection pool leaks
 ## v2.0 Updates
 - Migrated to microservices architecture
+- Added horizontal scaling capabilities
